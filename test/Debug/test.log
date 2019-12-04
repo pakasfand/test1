@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\butta\source\repos\test\test\main.c(18,23): warning C4090: 'function': different 'const' qualifiers
+  test.vcxproj -> C:\Users\butta\source\repos\test\Debug\test.exe

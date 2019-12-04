@@ -1,0 +1,1 @@
+ScopeId=0ne0004BF23;DeviceId=64adeddd-1751-5c7e-bed6-7b293b4f9c3c;SharedAccessKey=hM8q/oSxnR9H1vAsQxrs2hLPyHpTNMPv/6utvkn8yp0=;
